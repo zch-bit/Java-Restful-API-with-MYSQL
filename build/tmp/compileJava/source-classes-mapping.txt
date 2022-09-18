@@ -1,0 +1,12 @@
+demo/service/PersonService.java
+ demo.service.PersonService
+demo/entity/Person.java
+ demo.entity.Person
+demo/entity/Address.java
+ demo.entity.Address
+demo/Application.java
+ demo.Application
+demo/controller/DemoController.java
+ demo.controller.DemoController
+demo/repository/PersonRepository.java
+ demo.repository.PersonRepository
