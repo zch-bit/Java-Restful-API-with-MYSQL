@@ -1,3 +1,4 @@
 # Java-Restful-API-with-MYSQL
 
-Test
+- [X] Added cacert
+- [X] Support https
